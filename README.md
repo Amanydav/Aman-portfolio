@@ -1,6 +1,7 @@
 # Portfolio website 2022 version
 
-![Portfolio Website 2022](/img/portfolio-2022.png 'Portfolio Website 2022')
+![portfolio](https://github.com/user-attachments/assets/89f426cd-72b3-4a15-ba71-1a3966cb69d3)
+
 
 ## Setup
 
