@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cd7fb37a.css",
+    "main.js": "/static/js/main.8ca660ca.js",
+    "static/media/card-4.png": "/static/media/card-4.3cc84ff80b8067a7d32f.png",
+    "static/media/card-3.png": "/static/media/card-3.7b759a4262465817ba38.png",
+    "static/media/card-5.png": "/static/media/card-5.3cc6ce10b770c6a29ad1.png",
+    "static/media/card-8.png": "/static/media/card-8.46ad073e959e69e258d6.png",
+    "static/media/card-1.png": "/static/media/card-1.8f7a53f9e57b564030b1.png",
+    "static/media/card-6.png": "/static/media/card-6.33dfccf49244425d192c.png",
+    "static/media/card-7.png": "/static/media/card-7.413e34d882fa5e349f10.png",
+    "static/media/card-2.png": "/static/media/card-2.b50c1f4a3a8469783101.png",
+    "static/media/profile-picture.png": "/static/media/profile-picture.6cd0a89cdee9442282ac.png",
+    "static/media/logo.svg": "/static/media/logo.3e0dfbb158207847de14e6bc100cba1d.svg",
+    "static/media/instagram-personal-icon.svg": "/static/media/instagram-personal-icon.f8ebf5cb89efa439576c04d42b5fec9f.svg",
+    "index.html": "/index.html",
+    "static/media/github-icon.svg": "/static/media/github-icon.14deb12e2b76f111d998c32dbde25214.svg",
+    "static/media/linkedin-icon.svg": "/static/media/linkedin-icon.035bfc915bac6180ea633bc13b97e85f.svg",
+    "static/media/x-social-media-icon.svg": "/static/media/x-social-media-icon.b5b1c42bc0745f5ac655687af30d5514.svg",
+    "main.cd7fb37a.css.map": "/static/css/main.cd7fb37a.css.map",
+    "main.8ca660ca.js.map": "/static/js/main.8ca660ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd7fb37a.css",
+    "static/js/main.8ca660ca.js"
+  ]
+}
