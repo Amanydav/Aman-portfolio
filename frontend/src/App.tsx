@@ -6,6 +6,7 @@ import HeroProfile from './stories/HeroProfile/HeroProfile';
 import AboutProfileText from './stories/AboutProfileText/AboutProfileText';
 import AboutProfileImage from './stories/AboutProfileImage/AboutProfileImage';
 import SocialMediaCarousel from './stories/SocialMediaCarousel/SocialMediaCarousel';
+import Project from './stories/Project/Project';
 import SkillGroupIcons from './stories/SkillGroupIcons/SkillGroupIcons';
 import ContactText from './stories/ContactText/ContactText';
 import FooterText from './stories/FooterText/FooterText';
@@ -94,6 +95,30 @@ const App = () => {
                 <SocialMediaCarousel />
               </section>
             </div>
+            <div ref={projectRef}>
+              <section className="header-section">
+                <a
+                  href="/#project"
+                  rel="noopener noreferrer"
+                  className={
+                    activeTheme === 'light'
+                      ? 'header-title-light'
+                      : 'header-title-dark'
+                  }
+                >
+                  Projects
+                </a>
+              </section>
+              <section
+                className={`project-section ${
+                  activeTheme === 'light'
+                    ? 'section-border-light-theme'
+                    : 'section-border-dark-theme'
+                }`}
+              >
+                <Project />
+              </section>
+              </div>
             <div ref={skillsRef}>
               <section className="header-section">
                 <a
