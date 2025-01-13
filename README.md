@@ -52,6 +52,6 @@ I'm Aman Kumar, a passionate web developer with expertise in React, TypeScript, 
 Feel free to explore the code, check out the live demo, and connect with me for collaboration or discussions!  
 
 ## 📬 Contact  
-- Email: [your-ak7519240651@gmail.com]  
-- LinkedIn: [Your LinkedIn Profile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/aman-kumar-000a36269/))  
+- Email: [ak7519240651@gmail.com]  
+- LinkedIn: [Your LinkedIn Profile]([[(https://www.linkedin.com/in/aman-kumar-000a36269/)]])  
 - GitHub: [AmanKumar](https://github.com/AmanKumar)  
