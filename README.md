@@ -53,5 +53,5 @@ Feel free to explore the code, check out the live demo, and connect with me for 
 
 ## 📬 Contact  
 - Email: [ak7519240651@gmail.com]  
-- LinkedIn: [Your LinkedIn Profile]([[(https://www.linkedin.com/in/aman-kumar-000a36269/)]])  
+- LinkedIn: [Aman Kumar](https://www.linkedin.com/in/aman-kumar-000a36269/)  
 - GitHub: [AmanKumar](https://github.com/AmanKumar)  
