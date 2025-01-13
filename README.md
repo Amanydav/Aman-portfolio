@@ -1,6 +1,6 @@
-# 🌟 Personal Portfolio Website - 2022 Version  
+# 🌟 Personal Portfolio Website
 
-Welcome to the 2022 version of my personal portfolio! This project showcases my skills, experience, and projects in an interactive and visually appealing way. Built with modern web technologies, it serves as a dynamic representation of my work as a web developer.  
+Welcome to the my personal portfolio! This project showcases my skills, experience, and projects in an interactive and visually appealing way. Built with modern web technologies, it serves as a dynamic representation of my work as a web developer.  
 
 ## 🚀 Live Demo  
 👉 [Explore My Portfolio Here](https://aman-portfolio-04.netlify.app)  
