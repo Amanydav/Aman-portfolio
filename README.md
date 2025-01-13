@@ -23,7 +23,7 @@ Follow these steps to run the portfolio locally:
 
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/AmanKumar/portfolio-2022.git  
+   git clone https://github.com/Amanydav/Aman-portfolio.git  
    cd portfolio 
    ```  
 
